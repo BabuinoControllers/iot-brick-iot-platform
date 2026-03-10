@@ -1,18 +1,5 @@
 # IoT Brick – Modular IoT Platform for Sensors and Dataloggers
 
-Repository Description
-IoT Brick starter kit – modular IoT platform for connecting sensors and dataloggers to digital applications.
-
-Aggiungi topics nel repositoryiot
-iot, iot-platform, sensors, datalogger, edge-computing, industrial-iot
-
-Aggiungi un diagramma nel README
-Aggiungi diagramma architettura nel read me
-
-
-Testo
-# IoT Brick – Modular IoT Platform for Sensors and Dataloggers
-
 IoT Brick is a secure, modular IoT device and platform designed to **connect sensors and dataloggers** to digital applications. The starter kit provides tools, examples, and documentation to quickly develop IoT solutions **without firmware development**, allowing developers to focus on the application logic itself.
 
 ---
