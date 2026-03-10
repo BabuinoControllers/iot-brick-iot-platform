@@ -1,12 +1,3 @@
-
-
-Rinominare il repository senza perdere il link.
-iot-brick-starter-kit
-o
-iot-brick-iot-platform
-
-
-Titolo del readme
 # IoT Brick – Modular IoT Platform for Sensors and Dataloggers
 
 Repository Description
