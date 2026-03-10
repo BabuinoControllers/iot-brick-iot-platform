@@ -86,7 +86,7 @@ IoT Brick can interface with a wide variety of sensors, including:
   - Sound / noise level sensors
   - Smart plugs / energy usage monitors
  
- - **Structural & Vibration**
+- **Structural & Vibration**
   - Accelerometers
   - Gyroscopes
   - Strain gauges
